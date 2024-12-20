@@ -1,0 +1,79 @@
+form{
+    /* text-align: center; */
+    /* align-items: center; */
+}
+#main{
+    /* border: 2px solid; */
+    
+    padding: 20px;
+    height: 55vh;
+    width: 50vw;
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    left: 25vw;
+    text-align: center;
+    
+    
+
+}
+.hero
+{
+    /* border: 2px solid; */
+    margin: 3px;
+    padding: 3px;
+    height: 15vh;
+    width:20vw
+    
+
+}
+
+
+
+#que{
+    /* border: 2px solid; */
+    margin: 10px;
+    padding: 5px;
+    height:8vh;
+    width:40vw;
+    font-size: 18px;
+}
+#comment{
+    width: 40vw;
+    height: 10vh;
+}
+#head{
+    text-align: center;
+    font-size: 30px;
+
+}
+#button{
+    /* border: 5px solid; */
+     position: absolute; 
+    
+     top: 490px; 
+     right: 25vw;
+     
+    height: 5vh;
+    width: 10vw;
+    background-color: rgb(174, 201, 19);
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+
+
+}
+#button:hover{
+    border: 5px solid rgb(33, 105, 163);
+    height: 7vh;
+    width: 12vw;
+    border-radius: 50px;
+    background-color: aquamarine;
+}
+body{
+    background-image: linear-gradient(to right,  rgb(16, 199, 156),rgb(214, 214, 14));
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
